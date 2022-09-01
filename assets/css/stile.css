@@ -42,14 +42,6 @@ h1 {
   padding: 10%;
 }
 
-/* ELEMENTI NEL MAIN - ARTICLE */
-
-.thead {
-}
-
-.textposition {
-}
-
 .bluebackground {
   background-color: blue;
 }
@@ -67,12 +59,24 @@ h1 {
   background-color: rgb(224, 222, 219);
 }
 
-h2 {
+.asidetitles {
   text-align: center;
   text-transform: uppercase;
   font-size: medium;
   font-weight: bold;
 }
-/* ELEMENTI NELL' ASIDE */
 
-/* FOOTER */
+.greyposts {
+  background-color: rgb(224, 222, 219);
+  margin-bottom: 10%;
+}
+
+footer {
+  background-color: aquamarine;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 20%;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5%;
+}
