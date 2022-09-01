@@ -1,15 +1,78 @@
-/* IMPOSTAZIONI GENERALI */
+body {
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  height: 100vh;
+  width: 100vw;
+  background-image: url(/assets/img/sfondo.png);
+  background-position: center;
+  background-attachment: fixed;
+}
 
-/* HEADER */
+.firstbox {
+  background-color: aquamarine;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5%;
+}
 
-/* MAIN */
+.white-titles {
+  color: white;
+}
+
+.secondbox {
+  background-color: white;
+  text-align: left;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5%;
+  line-height: 200%;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.list {
+  padding: 10%;
+}
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 
-/* TABELLE */
+.thead {
+}
 
-/* FORM */
+.textposition {
+}
 
+.bluebackground {
+  background-color: blue;
+}
+
+.evenchildren {
+  text-align: center;
+}
+
+.roundedborders {
+  border-radius: 20px;
+  height: 50%;
+}
+
+.greybackground {
+  background-color: rgb(224, 222, 219);
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: medium;
+  font-weight: bold;
+}
 /* ELEMENTI NELL' ASIDE */
 
 /* FOOTER */
